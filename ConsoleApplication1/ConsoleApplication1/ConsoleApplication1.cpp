@@ -3,10 +3,22 @@
 
 #include <iostream>
 
+#include "Test_LSH.h"
+
 int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "yujin hi\n";
+
+    
+    Test_LSH* test = new Test_LSH();
+
+
+    std::cout << test->a << ", " << test->b << std::endl;
+
+
+
+
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
