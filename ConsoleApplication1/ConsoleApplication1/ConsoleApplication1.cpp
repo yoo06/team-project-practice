@@ -1,14 +1,16 @@
-﻿// ConsoleApplication1.cpp : 이 파일에는 'main' 함수가 포함됩니다. 거기서 프로그램 실행이 시작되고 종료됩니다.
-//
+
 
 #include <iostream>
-
 #include "Test_LSH.h"
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cout << "yujin hi\n";
+
+    cout << "Hello World!\n";
+    cout << "Goodbye World\n";
+    cout << "Hello\n";
+    cout << "yujin hi\n";
 
     
     Test_LSH* test = new Test_LSH();
