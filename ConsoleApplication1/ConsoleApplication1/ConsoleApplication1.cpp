@@ -1,6 +1,6 @@
-
-
 #include <iostream>
+#include "Test_LSH.h"
+
 using namespace std;
 
 int main()
@@ -8,7 +8,17 @@ int main()
 
     cout << "Hello World!\n";
     cout << "Goodbye World\n";
+    cout << "Hello\n";
     cout << "yujin hi\n";
+
+    
+    Test_LSH* test = new Test_LSH();
+
+
+    std::cout << test->a << ", " << test->b << std::endl;
+
+
+
 
 }
 

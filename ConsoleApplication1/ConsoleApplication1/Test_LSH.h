@@ -8,7 +8,7 @@ public:
 
 
 
-private:
+public:
 	int a;
 	int b;
 };
