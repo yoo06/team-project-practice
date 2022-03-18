@@ -8,13 +8,9 @@ int main()
 
     cout << "Hello World!\n";
     cout << "Goodbye World\n";
-<<<<<<< HEAD
     cout << "Hello\n";
     
-=======
     cout << "yujin hi\n";
-
->>>>>>> origin/main
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
