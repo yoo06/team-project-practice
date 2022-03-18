@@ -1,7 +1,6 @@
-
-
 #include <iostream>
 #include "Test_LSH.h"
+
 using namespace std;
 
 int main()
